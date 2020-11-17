@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ned_Buc/Ned_Buc.iml" filepath="$PROJECT_DIR$/Ned_Buc/Ned_Buc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project_Bucur.iml" filepath="$PROJECT_DIR$/.idea/Project_Bucur.iml" />
+    </modules>
+  </component>
+</project>
